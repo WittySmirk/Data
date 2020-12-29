@@ -1,0 +1,9 @@
+{                 
+	"project": "btree",
+	"compiler": "cc",  
+	"output": "btree.out",  
+	"includes": [ "include"  ],    
+	"sources": [ "src/*.c" ],              
+	"compiler_options": ["-Wall"] 
+}
+
