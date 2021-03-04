@@ -1,0 +1,8 @@
+{
+    "project": "llist",
+	"compiler": "cc",  
+	"output": "llist.out",  
+	"includes": [ "include"  ],    
+	"sources": [ "src/*.c" ],              
+	"compiler_options": ["-Wall"] 
+}
